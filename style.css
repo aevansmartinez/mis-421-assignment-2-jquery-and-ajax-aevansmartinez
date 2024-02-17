@@ -1,1 +1,51 @@
- 
+body {
+    background-image: url('./background1.jpeg');
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header {
+    text-align: center;
+    padding-top: 7px;
+    padding-bottom:7px;
+    background-color: rgb(235, 146, 108);
+    color: rgba(120, 59, 158, 0.76);
+    font-size: x-large;
+}
+main {
+    text-align: center;
+    margin-top: 50px;
+}
+#searchResults, #time {
+    margin-top: 20px;
+    visibility: hidden;
+    width: 100px;
+    display: none;
+}
+#query{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    padding: 5px 250px 5px 5px;
+    margin-bottom: 10px;
+}
+button{
+    background-color: rgb(193, 140, 242);
+    padding: 5px;
+    border-radius: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+#timeButton{
+    margin-top: 400px; 
+}
+
+#searchResults, #time {
+    background-color: rgb(200, 169, 230); 
+    color: rgba(91, 44, 120, 0.76);
+    width: 700px;
+    padding: 20px; 
+    border: 2px solid #ccc; 
+    border-radius: 5px; 
+}
+#time{
+    font-size: xx-large;
+}
