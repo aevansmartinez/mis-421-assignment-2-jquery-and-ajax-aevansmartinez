@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = mis_421_assignment_2_jquery_and_ajax_aevansmartinez
+build_property.RootNamespace = mis_421_assignment_2_jquery_and_ajax_aevansmartinez
+build_property.ProjectDir = /Users/annyae/Documents/MIS521/mis-421-assignment-2-jquery-and-ajax-aevansmartinez/mis-421-assignment-2-jquery-and-ajax-aevansmartinez/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/annyae/Documents/MIS521/mis-421-assignment-2-jquery-and-ajax-aevansmartinez/mis-421-assignment-2-jquery-and-ajax-aevansmartinez
+build_property._RazorSourceGeneratorDebug = 
